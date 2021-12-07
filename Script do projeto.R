@@ -8,3 +8,7 @@ rename ()
 #segunda parte
 join()
 select()
+
+#terçeira parte
+#alteracoes feitas no GIT Hub
+# alterações remotas
